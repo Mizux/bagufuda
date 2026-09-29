@@ -1,2 +1,2 @@
-# bagufuda
-Cyberpunk themed hanafuda like game
+# Bagufuda
+Cyberpunk themed hanafuda like game.
